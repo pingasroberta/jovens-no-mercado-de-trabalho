@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>jovens no mercado de trabalho</title>        
+    <title>jovens no mercado de trabalho</title>
 </head>
 
 <body>
