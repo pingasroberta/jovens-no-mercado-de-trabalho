@@ -1,5 +1,7 @@
 body{
-background: #7f92d3;
+background: linear-gradient(to bottom, rgb(145, 240, 227), rgb(230, 179, 156));
+font-size: 25px;
+font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -9,3 +11,4 @@ h1{
     text-align: center;
 
 }
+    
