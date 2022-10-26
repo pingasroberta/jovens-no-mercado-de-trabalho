@@ -1,5 +1,16 @@
+nav {
+    font-size: 30px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 30%;
+}
+
+
 body{
-background: linear-gradient(to bottom, rgb(145, 240, 227), rgb(230, 179, 156));
+
+background: linear-gradient(to bottom, rgb(145, 240, 227), rgb(156, 188, 230));
 font-size: 25px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 
