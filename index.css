@@ -4,7 +4,7 @@ nav {
 
 nav li{
     display: inline;
-    margin: 0 0 0 30%;
+    margin: 0 0 0 10%;
 }
 
 
@@ -21,6 +21,10 @@ h1{
     color: rgb(63, 117, 218);
     text-align: center;
 }  
+
+p{
+    text-align: justify;
+}
 .imagem{
     width: 400px;
     margin-left:35%;
