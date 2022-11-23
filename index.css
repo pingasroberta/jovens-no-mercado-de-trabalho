@@ -7,7 +7,9 @@ nav li{
     margin: 0 0 0 10%;
 }
 
-
+li:hover{
+    font-size: larger;
+}
 body{
 
 background: linear-gradient(to bottom, rgb(145, 240, 227), rgb(156, 188, 230));
